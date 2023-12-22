@@ -3,6 +3,8 @@ div.container{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 30%;
+
 }
 
 button{
@@ -31,7 +33,7 @@ button{
 }
 
 .heads{
-    background-image: url(images/heads.png);
+    background-image: url(../images/HEADS2.png);
 }
 
 .animate-heads{
@@ -49,7 +51,7 @@ button{
 }
 
 .tails{
-    background-image: url(images/tails.png);
+    background-image: url(../images/TAILS2.png);
     transform: rotateY(-180deg);
 }
 
